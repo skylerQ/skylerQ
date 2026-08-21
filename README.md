@@ -1,29 +1,32 @@
 # Hi，我是 Skyler 👋
 
-前端开发者，关注创意编程、实用 Web 产品与交互体验。  
-Frontend developer interested in creative coding, useful web products, and interactive experiences.
+前端开发者。我喜欢把插画、动画和浏览器交互放在一起，也会制作解决日常问题的 Web 产品。
 
-## 精选项目 Featured Projects
+## 正在创作：蘑菇小女孩
 
-- 🦋 **Watercolor Butterfly**
-  水彩蝴蝶互动网页  
-  An interactive watercolor butterfly experience.
+<a href="https://skylerq.github.io/mushroom-text-rain-curtain/">
+  <img src="https://raw.githubusercontent.com/skylerQ/mushroom-text-rain-curtain/main/assets/mushroom-rain.png" width="520" alt="背着竹筐、撑着蘑菇伞的小女孩" />
+</a>
 
-- ✅ **Next Todo App**
-  使用 Next.js 和 TypeScript 构建的苹果风格待办应用  
-  An Apple-inspired todo app built with Next.js and TypeScript.
+蘑菇小女孩是我正在发展的原创角色。她会出现在插画、互动网页和其他创意实验里。
 
-- 🎨 **Color Palette Generator**
-  输入一个颜色，生成并复制不同深浅的配色  
-  Generate and copy a palette of color shades.
+### 文字雨帘
 
-## 技术栈 Tech Stack
+灵感来自儿歌《采蘑菇的小姑娘》。画面采用丝网印刷的颗粒与复古套色，我用 Canvas 把雨线做成可以用鼠标拨动的文字珠帘。
+
+[在线预览](https://skylerq.github.io/mushroom-text-rain-curtain/) · [查看源码](https://github.com/skylerQ/mushroom-text-rain-curtain)
+
+## 其他项目
+
+- **Watercolor Butterfly**：水彩蝴蝶互动网页
+- **Next Todo App**：使用 Next.js 与 TypeScript 构建的待办应用
+- **Color Palette Generator**：颜色与明暗配色生成工具
+
+## 技术栈
 
 JavaScript · TypeScript · React · Next.js · Vue
 
-## 关于我 About Me
+## 联系方式
 
-- 📍 中国武汉 / Wuhan, China
-- 💼 前端开发 / Frontend Development
-- 🌱 最近在学习：新奇好玩的交互体验
-- 📫 联系方式：718630016@qq.com
+- 武汉，中国
+- zhangtian00112@gmail.com
