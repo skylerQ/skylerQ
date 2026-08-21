@@ -1,8 +1,8 @@
 # Hi，我是 Skyler 👋
 
-我做前端，也画画。
+我做前端，也喜欢交互。
 
-最近我在画一个叫“蘑菇小女孩”的角色。她背着竹筐，撑一把蘑菇伞，来自我小时候听过的《采蘑菇的小姑娘》。我会继续画她，也会把她放进网页，让她回应鼠标和声音。
+最近我在画一个叫“小萝”的角色。她背着竹筐，撑一把蘑菇伞，来自我小时候听过的《采蘑菇的小姑娘》。我会继续画她，也会把她放进网页，让她回应鼠标和声音。
 
 <a href="https://skylerq.github.io/mushroom-text-rain-curtain/">
   <img src="https://raw.githubusercontent.com/skylerQ/mushroom-text-rain-curtain/main/assets/mushroom-rain.png" width="520" alt="背着竹筐、撑着蘑菇伞的小女孩" />
